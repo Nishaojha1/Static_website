@@ -1,0 +1,26 @@
+.signup{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(231, 147, 175);
+}
+.createAccount{
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+}
+.inputFeild{
+    margin: 5px;
+}
+.inputStyle{
+    margin-bottom: 7px;
+    height: 30px;
+    width: 300px;
+    padding-left: 15px;
+    border-radius: 5px; 
+    border-width: 0px;
+    display: block;
+}
+

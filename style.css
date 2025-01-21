@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+  }
+  .heading {
+    display: flex;
+    justify-content: center;
+  }
+  .entire_image {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+  }
+  .dog {
+    color: rgb(0, 255, 132);
+    border-style: solid;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  .image_design {
+    width: 180px;
+    height: 120px;
+    padding-top: 5px;
+  }
+  .button_view {
+    margin-bottom: 8px;
+  }
+  .aboutdog{
+    display: flex;
+    flex-direction: column 
+;
+    align-items: center;
+  }
+  .dog_para{
+    display: flex;
+    justify-content: center;
+  }
+  .imageDog{
+    height: 80px;
+    width: 80px;
+  }
+  .paragraph{
+    width: 500px;
+  }
+
+  .backgroundImage{
+    background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+    background-size: cover;
+   
+  }
